@@ -9,7 +9,7 @@ class Solution {
     }
     public void arrange(int[] nums,int i){
         int n=nums.length;
-        while(i<n-1){
+        while(i<n-1 && i+1!=0){
             int temp = nums[i];
             nums[i]=nums[i+1];
             nums[i+1]=temp;
