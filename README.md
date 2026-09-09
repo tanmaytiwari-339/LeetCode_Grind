@@ -21,14 +21,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0501-find-mode-in-binary-search-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0501-find-mode-in-binary-search-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0501-find-mode-in-binary-search-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Sorting
 |  |
@@ -37,5 +40,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0501-find-mode-in-binary-search-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/1305-all-elements-in-two-binary-search-trees) |
 <!---LeetCode Topics End-->
