@@ -59,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/3483-unique-3-digit-even-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0191-number-of-1-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
