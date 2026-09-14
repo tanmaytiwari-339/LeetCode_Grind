@@ -27,12 +27,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Hash Table
@@ -71,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0191-number-of-1-bits) |
+## DP on Trees
+|  |
+| ------- |
+| [0979-distribute-coins-in-binary-tree](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0979-distribute-coins-in-binary-tree) |
 <!---LeetCode Topics End-->
