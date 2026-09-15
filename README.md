@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0189-rotate-array) |
+| [0836-rectangle-overlap](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0836-rectangle-overlap) |
 | [3871-count-commas-in-range-ii](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/3871-count-commas-in-range-ii) |
 ## Tree
 |  |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0979-distribute-coins-in-binary-tree](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0979-distribute-coins-in-binary-tree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
