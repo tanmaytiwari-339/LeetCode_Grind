@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -83,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0836-rectangle-overlap) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0111-minimum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
