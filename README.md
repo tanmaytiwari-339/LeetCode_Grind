@@ -90,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0111-minimum-depth-of-binary-tree) |
+## Database
+|  |
+| ------- |
+| [0577-employee-bonus](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0577-employee-bonus) |
 <!---LeetCode Topics End-->
