@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0485-max-consecutive-ones) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2326-spiral-matrix-iv](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/2326-spiral-matrix-iv) |
 | [3483-unique-3-digit-even-numbers](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -125,9 +126,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0059-spiral-matrix-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2326-spiral-matrix-iv](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/2326-spiral-matrix-iv) |
 ## Matrix
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0059-spiral-matrix-ii) |
+| [2326-spiral-matrix-iv](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/2326-spiral-matrix-iv) |
+## Linked List
+|  |
+| ------- |
+| [2326-spiral-matrix-iv](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/2326-spiral-matrix-iv) |
 <!---LeetCode Topics End-->
