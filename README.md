@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0234-palindrome-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0328-odd-even-linked-list) |
 | [2326-spiral-matrix-iv](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/2326-spiral-matrix-iv) |
 ## Prefix Sum
@@ -166,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/3727-maximum-alternating-sum-of-squares) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
