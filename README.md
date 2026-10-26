@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0724-find-pivot-index) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2326-spiral-matrix-iv](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/2326-spiral-matrix-iv) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0724-find-pivot-index) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -176,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0234-palindrome-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
