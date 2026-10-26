@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0094-binary-tree-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0979-distribute-coins-in-binary-tree) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0094-binary-tree-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0979-distribute-coins-in-binary-tree) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0094-binary-tree-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0979-distribute-coins-in-binary-tree) |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0234-palindrome-linked-list) |
 ## Sliding Window
 |  |
