@@ -38,11 +38,11 @@ class Solution {
         return Math.max(height(node.left),height(node.right))+1;
     }
     */
-    
+
     int diameter=0;
     public int diameterOfBinaryTree(TreeNode root) {
         checkDia(root);
-        return diameter-1;
+        return diameter;
         
     }
     public int checkDia(TreeNode node){
@@ -50,7 +50,7 @@ class Solution {
         if(node==null) return 0;
         int leftHeight = checkDia(node.left);
         int rightHeight = checkDia(node.right);
-        int dia = leftHeight + rightHeight + 1;
+        int dia = leftHeight + rightHeight;
         diameter = Math.max(dia,diameter); 
         return Math.max(leftHeight,rightHeight) + 1;
     }
