@@ -11,6 +11,7 @@ class Solution {
         }
         return -1;
         */
+        /*
         int n = nums.length;
         int ans = 0;
         for(int i=0 ; i < 32 ; i++){
@@ -24,5 +25,13 @@ class Solution {
             }
         }
         return ans;
+        */
+        Arrays.sort(nums);
+        int n = nums.length;
+        for(int i=1;i<n;i+=3){
+            if(nums[i]!=nums[i-1]) return nums[i-1];
+        }
+        return nums[n-1];
+
     }
 }
