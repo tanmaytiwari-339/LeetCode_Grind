@@ -26,12 +26,22 @@ class Solution {
         }
         return ans;
         */
+        /*
         Arrays.sort(nums);
         int n = nums.length;
         for(int i=1;i<n;i+=3){
             if(nums[i]!=nums[i-1]) return nums[i-1];
         }
         return nums[n-1];
+        */
+        int one = 0;
+        int two = 0;
+        for(int a : nums){
+            one = (one ^ a) & ~two;
+            two = (two ^ a) & ~one;
+
+        }
+        return one;
 
     }
 }
