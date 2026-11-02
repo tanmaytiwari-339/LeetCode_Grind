@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0283-move-zeroes) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0724-find-pivot-index) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0231-power-of-two) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0836-rectangle-overlap) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3871-count-commas-in-range-ii](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/3871-count-commas-in-range-ii) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0229-majority-element-ii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Tree
