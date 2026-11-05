@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0283-move-zeroes) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0724-find-pivot-index) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0035-search-insert-position) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0704-binary-search](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0704-binary-search) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sorting
