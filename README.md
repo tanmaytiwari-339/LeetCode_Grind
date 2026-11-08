@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0029-divide-two-integers) |
 | [0189-rotate-array](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0231-power-of-two) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0029-divide-two-integers) |
 | [0137-single-number-ii](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0231-power-of-two) |
