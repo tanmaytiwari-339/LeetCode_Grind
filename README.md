@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0704-binary-search) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0455-assign-cookies) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0229-majority-element-ii) |
+| [0455-assign-cookies](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0455-assign-cookies) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Stack
 |  |
@@ -234,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0078-subsets) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
