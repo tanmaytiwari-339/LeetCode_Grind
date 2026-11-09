@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0059-spiral-matrix-ii) |
+| [0078-subsets](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0189-rotate-array) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0231-power-of-two) |
@@ -228,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2747-count-zero-request-servers](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/2747-count-zero-request-servers) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
