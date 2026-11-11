@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0836-rectangle-overlap) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3871-count-commas-in-range-ii](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/3871-count-commas-in-range-ii) |
 ## Tree
 |  |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0455-assign-cookies) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Stack
 |  |
 | ------- |
