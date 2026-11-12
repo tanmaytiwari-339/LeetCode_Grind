@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0059-spiral-matrix-ii) |
 | [0078-subsets](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0137-single-number-ii) |
@@ -218,9 +219,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0055-jump-game) |
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0455-assign-cookies) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/3789-minimum-cost-to-acquire-required-items) |
