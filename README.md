@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2326-spiral-matrix-iv](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/2326-spiral-matrix-iv) |
 | [2747-count-zero-request-servers](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3364-minimum-positive-sum-subarray](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/3364-minimum-positive-sum-subarray) |
 | [3483-unique-3-digit-even-numbers](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0724-find-pivot-index) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [3364-minimum-positive-sum-subarray](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/3364-minimum-positive-sum-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2747-count-zero-request-servers](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/2747-count-zero-request-servers) |
+| [3364-minimum-positive-sum-subarray](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/3364-minimum-positive-sum-subarray) |
 ## Backtracking
 |  |
 | ------- |
