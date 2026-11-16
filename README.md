@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0059-spiral-matrix-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2326-spiral-matrix-iv](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/2326-spiral-matrix-iv) |
 ## Matrix
 |  |
@@ -250,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0455-assign-cookies) |
+## String
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
