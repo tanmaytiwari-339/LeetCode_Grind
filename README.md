@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0724-find-pivot-index) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2326-spiral-matrix-iv](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/2326-spiral-matrix-iv) |
 | [2747-count-zero-request-servers](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/2747-count-zero-request-servers) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0231-power-of-two) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0836-rectangle-overlap) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0724-find-pivot-index) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/3364-minimum-positive-sum-subarray) |
 ## Dynamic Programming
 |  |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0435-non-overlapping-intervals) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Greedy
 |  |
 | ------- |
