@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0724-find-pivot-index) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0229-majority-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0560-subarray-sum-equals-k) |
 | [2747-count-zero-request-servers](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/2747-count-zero-request-servers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0724-find-pivot-index) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
