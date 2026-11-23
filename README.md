@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0724-find-pivot-index) |
+| [1352-product-of-the-last-k-numbers](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0231-power-of-two) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0836-rectangle-overlap) |
+| [1352-product-of-the-last-k-numbers](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0724-find-pivot-index) |
+| [1352-product-of-the-last-k-numbers](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/3364-minimum-positive-sum-subarray) |
@@ -270,4 +273,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
