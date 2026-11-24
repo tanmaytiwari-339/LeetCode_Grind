@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2747-count-zero-request-servers](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3364-minimum-positive-sum-subarray](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/0836-rectangle-overlap) |
 | [1352-product-of-the-last-k-numbers](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/3483-unique-3-digit-even-numbers) |
 ## Divide and Conquer
 |  |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2747-count-zero-request-servers](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/2747-count-zero-request-servers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Backtracking
 |  |
 | ------- |
@@ -281,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/1352-product-of-the-last-k-numbers) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/tanmaytiwari-339/LeetCode_Grind/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
